@@ -1,0 +1,1 @@
+To utilize either of the two files in this folder, you simply run them using python3. There are no parameters or flags to be set.
